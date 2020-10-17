@@ -1,0 +1,5 @@
+"0","listen(s1)
+"
+"2","Error in inputw(wave = wave, f = f, channel = channel) : 
+  argument ""f"" is missing, with no default
+"

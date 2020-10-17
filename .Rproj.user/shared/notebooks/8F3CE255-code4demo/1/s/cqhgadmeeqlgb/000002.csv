@@ -1,0 +1,9 @@
+"0","a <- play(sin(1:100000/20))"
+"0","a"
+"1"," Audio player instance 5ff94490 of Windows MultiMedia audio driver (wmm).
+"
+"0","# Audio player instance 63b770 of AudioUnits (Mac OS X) driver (macosx)."
+"0","# Audio player instance 5ff92a90 of Windows MultiMedia audio driver (wmm)."
+"0","wait(a) # wait for the playback to finish"
+"0","rewind(a)"
+"0","resume(a) # play again"

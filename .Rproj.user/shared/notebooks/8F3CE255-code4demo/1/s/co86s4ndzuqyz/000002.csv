@@ -1,0 +1,7 @@
+"0","data(tico)"
+"0","export(wave = tico, f = 22050, header = F)"
+"0","export(wave = tico, f = 22050, header = T)"
+"0","export(wave = tico, f = 22050, header = T, filename = ""tico4Goldwave.txt"")"
+"0",""
+"0","# 自定義 header"
+"0","export(wave = tico, f = 22050, header = ""f=22050; ch=left"", filename = ""tico4Goldwave.txt"")"

@@ -1,0 +1,1 @@
+"0","s6 <- readWave(filename = ""../data/wmv/1kHz_44100Hz_16bit_05sec.wav"")"

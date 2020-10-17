@@ -1,0 +1,1 @@
+"0","ticofirst <- cutw(wave = tico, f = 22050, from = 0, plot = T, to = 0.5, output = ""Wave"")"
